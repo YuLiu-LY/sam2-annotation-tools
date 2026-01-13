@@ -2,6 +2,8 @@
 
 A powerful GUI application for video segmentation using Meta's [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/sam2) model. This tool allows users to annotate video frames with points and bounding boxes, then automatically generate segmentation masks across the entire video sequence.
 
+Here is a [demo video](./use_case.mp4).
+
 <video controls>
   <source src="./use_case.mp4" type="video/mp4">
 </video>
